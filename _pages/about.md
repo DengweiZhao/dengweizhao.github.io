@@ -19,9 +19,14 @@ Publications
 
 <ul>
   <li>
-    <strong>Dengwei Zhao</strong>, Shikui Tu, Yanan Sun, Lei Xu.
+    <strong>Dengwei Zhao</strong>, Shikui Tu*, Yanan Sun, Lei Xu*.
     <em>"KeeA*: Epistemic Exploratory A* Search via Knowledge Calibration. Advances in Neural Information Processing Systems (NeurIPS 2025, CCF-A）"</em>.
     <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/117201">[paper]</a>
+  </li>
+  <li>
+    <strong>Dengwei Zhao</strong>, Shikui Tu*, Lei Xu*.
+    <em>"SeeA*: Efficient Exploration-Enhanced A* Search by Selective Sampling. Advances in Neural Information Processing Systems (NeurIPS 2024, Oral paper, 61/15671≈0.39%, CCF-A）"</em>.
+    <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/bc8b2058fd96978a4146f18298cb2d39-Abstract-Conference.html">[paper]</a>
   </li>
 </ul>
 
