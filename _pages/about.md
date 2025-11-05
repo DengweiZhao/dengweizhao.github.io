@@ -50,7 +50,7 @@ Publications
   </li>
   <li>
     <strong>Dengwei Zhao</strong>, Shuai Yuan, et al.
-    <em>"DeepTH: Chip Placement with Deep Reinforcement Learning Using a Three-Head Policy Network. IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE). (DATE 2023, CCF-B)"</em>.
+    <em>"DeepTH: Chip Placement with Deep Reinforcement Learning Using a Three-Head Policy Network. IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE 2023, CCF-B)"</em>.
     <a href="https://past.date-conference.com/proceedings-archive/2023/DATA/671.pdf">[paper]</a>
     <a href="https://github.com/CMACH508/GW_PCZero">[code]</a>
   </li>
