@@ -19,9 +19,8 @@ Publications
 
 <ul>
   <li>
-    <span class="pubtitle">NeurIPS 2025</span> &nbsp;
     <strong>Dengwei Zhao</strong>, Shikui Tu, Yanan Sun, Lei Xu.
-    <em>"KeeA*: Epistemic Exploratory A* Search via Knowledge Calibration"</em>.
+    <em>"KeeA*: Epistemic Exploratory A* Search via Knowledge Calibration. Advances in Neural Information Processing Systems (NeurIPS 2025, CCF-A）"</em>.
     <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/117201">[paper]</a>
   </li>
 </ul>
