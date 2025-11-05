@@ -11,6 +11,6 @@ I am currently a postdoctoral researcher at the [School of Computer Science](htt
 
 You can find my CV here: [Curriculum Vitae](../../assets/Curriculum_Vitae.pdf).
 
-[Email](zdwccc@sjtu.edu.cn)
+[Contact Me](zdwccc@sjtu.edu.cn)
 
 
