@@ -13,12 +13,13 @@ You can find my CV [here](../../Curriculum_Vitae.pdf).
 
 [Contact Me](zdwccc@sjtu.edu.cn)
 
+
 Publications
 ======
 
 <ul>
 <li><div class="pubtitle">NeurIPS 2025</div> &nbsp;<span class="font-bold">Dengwei Zhao</span>, Shikui Tu, Yanan Sun, Lei Xu. "KeeA*: Epistemic Exploratory A* Search via Knowledge Calibration". <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/117201">[paper]</a></li>
-
+</ul>
   
 
 Professional Services
