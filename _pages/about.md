@@ -20,6 +20,21 @@ Publications
 <ul>
 <li><div class="pubtitle">NeurIPS 2025</div> &nbsp;<span class="font-bold">Dengwei Zhao</span>, Shikui Tu, Yanan Sun, Lei Xu. "KeeA*: Epistemic Exploratory A* Search via Knowledge Calibration". <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/117201">[paper]</a></li>
 </ul>
+
+Teaching Assistant
+=====
+
+**Shanghai Innovation Institute**
+
+Classical theories of information science, Fall, 2024 & 2025
+
+**Shanghai Jiao Tong University**
+
+Linear and Convex Optimization, Fall, 2020 ~ 2024
+
+Machine Learning, Fall, 2021 ~ 2024
+
+
   
 
 Professional Services
