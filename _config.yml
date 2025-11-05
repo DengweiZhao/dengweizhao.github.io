@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Dengwei Zhao / Personal Homepage"
+title                    : "Dengwei Zhao"
 title_separator          : "-"
 name                     : &name "Dengwei Zhao"
 url                      : https://dengweizhao.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
