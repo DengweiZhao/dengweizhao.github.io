@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral researcher at the [School of Computer Science](https://www.cs.sjtu.edu.cn), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn). My research interests lie in heuristic search, AlphaZero-inspired optimization, and reinforcement learning. I received my B.Sc. (2019) and Ph.D. (2025) degrees in Computer Science from Shanghai Jiao Tong University, advised by Professor [Lei Xu](https://scholar.google.com/citations?user=rN2ny9kAAAAJ&hl=zh-CN) and Associate Professor [Shikui Tu](https://www.cs.sjtu.edu.cn/~tushikui/). I am currently seeking faculty or research positions. Please feel free to contact me if you are interested in potential collaborations or opportunities.
+I am currently a postdoctoral researcher at the [School of Computer Science](https://www.cs.sjtu.edu.cn), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn). My research interests lie in heuristic search, AlphaZero-inspired optimization, reinforcement learnin, drug design and biological sequence generation. I received my B.Sc. (2019) and Ph.D. (2025) degrees in Computer Science from Shanghai Jiao Tong University, advised by Professor [Lei Xu](https://scholar.google.com/citations?user=rN2ny9kAAAAJ&hl=zh-CN) and Associate Professor [Shikui Tu](https://www.cs.sjtu.edu.cn/~tushikui/). I am currently seeking faculty or research positions. Please feel free to contact me if you are interested in potential collaborations or opportunities.
 
 You can find my CV [here](../../Curriculum_Vitae.pdf).
 
@@ -36,6 +36,11 @@ Publications
     <em>"Novelty Encouraged Beam Clustering Search for Multi-Objective De Novo Diverse Drug Design. IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024, CCF-B）"</em>.
     <a href="https://ieeexplore.ieee.org/document/10822340">[paper]</a>
     <a href="https://github.com/CMACH508/NeBC">[code]</a>
+  </li>
+  <li>
+    Liyi Yuan, Shuai Yuan, <strong>Dengwei Zhao</strong>, et al.
+    <em>"TimingDTH: Timing-Driven Placement with Deep Three-Head Reinforcement Learning. IEEE 2024 Conference of Science and Technology for Integrated Circuits"</em>.
+    <a href="https://ieeexplore.ieee.org/abstract/document/10531993">[paper]</a>
   </li>
   <li>
     <strong>Dengwei Zhao</strong>, Shikui Tu*, Lei Xu*.
